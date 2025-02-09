@@ -1,0 +1,26 @@
+/* color palette from <https://github.com/vuejs/theme> */
+:root {
+  --orange: #F47920;
+  --green: #00995D;
+  --white: #FFFFFF;
+  --white-secondary:#F7F3EE;
+  --white-tertiary: #EAE0D5;
+  --gray: #3F3F3F;
+  --gray-secondary:#737373;
+  --gray-tertiary:#ABABAB;
+
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+body {
+  min-width: 100vh;
+  min-height: 100vh;
+  font-family: "Poppins", serif;
+}
