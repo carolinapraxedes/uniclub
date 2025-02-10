@@ -1,3 +1,8 @@
 @import './base.css';
 
+@import '@splidejs/vue-splide/css';
+
+
+@import '@splidejs/vue-splide/css/skyblue';
+@import '@splidejs/vue-splide/css/sea-green';
 

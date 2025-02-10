@@ -28,8 +28,8 @@
 
 <style scoped>
   .text-header-info{
-    font-size: 16px;
-    line-height: 18px;
+    font-size: 1rem; /* 16px */
+    line-height: 1.125rem; /* 18px */
   }
 
 </style>
